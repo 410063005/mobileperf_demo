@@ -1,5 +1,10 @@
 # 文档
 
+## 项目结构
+
+- mobileperf_flask - 后端代码
+- mobileperf_vue_gui - 前端代码
+
 ## 整体流程
 
 ```
